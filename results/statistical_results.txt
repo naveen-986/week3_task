@@ -1,0 +1,11 @@
+STATISTICAL ANALYSIS RESULTS
+============================
+
+Chi-Square Statistic: 260.7170
+Chi-Square p-value: 0.000000
+Degrees of Freedom: 1
+
+Z-statistic: 16.2188
+Z-test p-value: 0.000000
+
+95% CI for difference: 0.4951 to 0.6111
